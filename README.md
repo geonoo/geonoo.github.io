@@ -1,2 +1,2 @@
-## Hi geonoo's dev-note
+## geonoo's dev-note
 
